@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatemeh-Barati
-- 👀 I’m interested in java and javascript
+- 👀 I’m interested in python, Go and javascript
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on development
 - 📫 fatemehbaratit@gmail.com
