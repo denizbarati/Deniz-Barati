@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fatemeh-Barati
+- 👋 Hi, I’m Deniz-Barati
 - 👀 I’m interested in python, Go and javascript
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on development
