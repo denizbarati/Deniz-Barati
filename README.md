@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, Go and javascript
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on development
-- 📫 fatemehbaratit@gmail.com
+- 📫 denizbaratii@gmail.com
 
 <!---
 Fatemeh-Barati/Fatemeh-Barati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
